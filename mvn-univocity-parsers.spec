@@ -4,7 +4,7 @@
 #
 Name     : mvn-univocity-parsers
 Version  : 2.7.3
-Release  : 1
+Release  : 2
 URL      : https://github.com/uniVocity/univocity-parsers/archive/v2.7.3.tar.gz
 Source0  : https://github.com/uniVocity/univocity-parsers/archive/v2.7.3.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/univocity/univocity-parsers/2.7.3/univocity-parsers-2.7.3.jar
